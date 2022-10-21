@@ -14,4 +14,4 @@ Growing up, I had a habit of being a ***wise guy***. I'll leave the details up t
 
 
 
-[Home](https://github.com/EricMHanks/EricHanks-midterm/blob/main/README.md "HomePage") | [About Me](https://github.com/EricMHanks/aboutMe/blob/main/README.md "Biography") | [HelloWorld](https://github.com/EricMHanks/hello-world/edit/main/README.md "GitHub Hello, World") | [My Code](https://github.com/EricMHanks/my-code "Portfolio of Code")
+[Home](https://github.com/EricMHanks/EricHanks-midterm/blob/main/README.md "HomePage") | [About Me](https://github.com/EricMHanks/aboutMe/blob/main/README.md "Biography") | [HelloWorld](https://github.com/EricMHanks/hello-world/blob/main/README.md "GitHub Hello, World") | [My Code](https://github.com/EricMHanks/my-code "Portfolio of Code")
